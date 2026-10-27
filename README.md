@@ -7,7 +7,7 @@
 [Hong Huang](https://hongh0.github.io/)<sup>1</sup>,
 [Yuqiu Liu](https://autumnyq.github.io/)<sup>1</sup>,
 [Chenyu You](https://chenyuyou.me/)<sup>2</sup>,
-Daniel F Martin<sup>3</sup>,
+[Daniel F Martin](https://scholar.google.com/citations?user=oXfed6oAAAAJ&hl=en)<sup>3</sup>,
 [Chuhang Zou](https://zouchuhang.github.io/)<sup>4†</sup>,
 [Wuyang Chen](https://chenwydj.github.io/)<sup>1†</sup>
 
