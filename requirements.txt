@@ -1,0 +1,23 @@
+# Main `fluidgen` environment: reconstruction, simulation, warped reference, planning.
+# Tested with Python 3.10, CUDA 12.4, torch 2.4.0. Install torch / pytorch3d / kaolin
+# matching your CUDA first, then SAM 3D Objects following its own README
+# (it brings spconv, gsplat, utils3d), then:
+genesis-world==0.3.12
+lang-sam==0.2.1          # Grounding DINO (transformers) + SAM 2
+moge @ git+https://github.com/microsoft/MoGe.git
+transformers==4.57.1
+diffusers==0.30.2
+accelerate==1.10.1
+openai>=2.0
+numpy==1.26.4
+scipy
+opencv-python-headless
+imageio
+imageio-ffmpeg
+trimesh
+open3d
+scikit-image
+easydict
+omegaconf
+hydra-core
+pillow

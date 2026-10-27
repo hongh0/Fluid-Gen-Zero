@@ -1,0 +1,15 @@
+args:
+  latent_channels: 16
+  mode: inference
+
+  batch_size: 1
+  input_type: json
+  sampling_num_frames: 13
+  sampling_fps: 8
+  bf16: True
+  force_inference: True
+
+  no_flow_injection: False
+  flow_path: Null
+  flow_from_prompt: False
+  vis_traj_features: False

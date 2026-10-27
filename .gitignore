@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+env.sh
+checkpoints/
+third_party/
+runs/
+*.mp4
+*.npy
+*.npz
+!examples/*
